@@ -1,0 +1,277 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) 
+{
+	.menu
+	{
+		margin-left: 0px;
+	}
+	.menu ul li
+	{
+
+	}
+	.menu ul li a
+	{
+		color: white !important;
+		font-weight: 400;
+		padding-top: 3px;
+		margin-left: 0px;
+	}
+	/*banner start*/
+
+	.banner h1
+	{
+		font-size: 60px;
+		font-weight: 700;
+	}
+	/*banner end*/
+	/*popular start*/
+.popular h1
+{
+	font-weight: 700;
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+.popular p
+{
+	font-weight: 400;
+	color: white;
+}
+.popular h4
+{
+	font-weight: 700;
+	padding-top: 15px;
+}
+.s_row
+{
+	padding-top: 20px;
+	padding-bottom: 125px;
+}
+.p_p
+{
+	font-size: 15px;
+	padding-top: 30px;
+	color: white;
+}
+/*popular end*/
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+	/*header start*/
+	.menu
+	{
+		margin-left: 0px;
+	}
+	.menu ul li
+	{
+
+	}
+	.menu ul li a
+	{
+		color: white !important;
+		font-weight: 400;
+		padding-top: 3px;
+		margin-left: 0px;
+	}
+	/*header end*/
+
+	/*banner start*/
+
+	.banner h1
+	{
+		font-size: 60px;
+		font-weight: 700;
+	}
+	/*banner end*/
+	/*popular start*/
+.popular h1
+{
+	font-weight: 700;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+.popular p
+{
+	font-weight: 400;
+	color: white;
+}
+.popular h4
+{
+	font-weight: 700;
+	padding-top: 15px;
+}
+.s_row
+{
+	padding-top: 20px;
+	padding-bottom: 95px;
+}
+.p_p
+{
+	font-size: 15px;
+	padding-top: 30px;
+	color: white;
+}
+/*popular end*/
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+	.menu
+	{
+		margin-left: 0px;
+	}
+	.menu ul li
+	{
+
+	}
+	.menu ul li a
+	{
+		color: white !important;
+		font-weight: 400;
+		padding-top: 3px;
+		margin-left: 0px;
+	}
+/*popular start*/
+.popular h1
+{
+	font-weight: 700;
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+.popular p
+{
+	font-weight: 400;
+	color: white;
+}
+.popular h4
+{
+	font-weight: 700;
+	padding-top: 15px;
+}
+.s_row
+{
+	padding-top: 20px;
+	padding-bottom: 125px;
+}
+.p_p
+{
+	font-size: 15px;
+	padding-top: 30px;
+	color: white;
+}
+/*popular end*/
+
+/*title start*/
+
+.title img
+{
+	padding-top: 45px;
+    padding-bottom: 0px;
+    padding-left: 110px;
+}
+.title h1
+{
+	font-weight: 700;
+	text-transform: capitalize;
+	padding-top: 50px;
+}
+.title p
+{
+	font-weight: 400;
+	letter-spacing: 2.5px;
+}
+   
+
+.title button
+{
+	font-size: 18px !important;
+	padding: 10px 35px;
+	border: none;
+	border-radius: 58px;
+	background-color: #21243D;
+	color: white;
+	font-weight: 700;
+	text-transform: uppercase; 
+	margin-top: 22px;
+}
+.t_btn {
+    margin-bottom: 70px;
+}
+/*title end*/
+
+
+.title2 img
+{
+	padding-top: 45px;
+    padding-bottom: 0px;
+    padding-left: 110px;
+}
+.title2 h1
+{
+	font-weight: 700;
+	text-transform: capitalize;
+	padding-top: 50px;
+}
+.title2 p
+{
+	font-weight: 400;
+	letter-spacing: 2.5px;
+}
+   
+
+.title2 button
+{
+	font-size: 18px !important;
+	padding: 10px 35px;
+	border: none;
+	border-radius: 58px;
+	background-color: #21243D;
+	color: white;
+	font-weight: 700;
+	text-transform: uppercase; 
+	margin-top: 22px;
+}
+.t_btn {
+    margin-bottom: 70px;
+}
+.title2
+	{
+	    margin-top: -55px;
+	}
+	.fan img 
+	{
+    padding-top: 70px;
+    }
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+	/*title 2*/
+	.title2
+	{
+	    margin-top: -55px;
+	}
+	/*title2*/
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px)
+{
+
+
+}
+@media (min-width: 1400px)
+{
+	
+
+}
